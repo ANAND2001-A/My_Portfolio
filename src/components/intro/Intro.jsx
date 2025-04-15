@@ -24,7 +24,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1.5 year</small>
+              <small>1.6 year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -33,14 +33,13 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            1+ years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+            Front-End Developer with 1.6 Years of Experience
+
+            Results-driven Front-End Developer with 1.6 years of hands-on experience in building responsive and high-performance web and mobile applications. Proficient in leveraging modern technologies such as React.js, Next.js, Tailwind CSS, Firebase, and Flutter to create seamless user experiences. Skilled in Figma for UI/UX design, with a strong ability to translate wireframes and design mockups into clean, maintainable code.
+
+            Successfully delivered multiple projects across both web and mobile platforms, showcasing a deep understanding of component-based architecture, state management, and performance optimization. Adept at identifying and implementing user interactions, debugging complex issues, and maintaining frontend performance across various devices and browsers.
+
+            Educational background includes a Bachelor of Technology (B.Tech) and Polytechnic Diploma in a relevant field, providing a solid foundation in both theoretical and practical aspects of software development.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
