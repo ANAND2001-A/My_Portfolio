@@ -1,11 +1,11 @@
 import "./portfolio.css";
 
-import IMG1 from "../../assets/Educational Website.jpg";
-import IMG2 from "../../assets/reservation-form.png";
-import IMG3 from "../../assets/Startup Agency Project.jpg";
-import IMG4 from "../../assets/fh-huquq.png";
-import IMG5 from "../../assets/Jokes Project.jpg";
-import IMG6 from "../../assets/Project4.jpg";
+import IMG1 from "../../assets/projectimg/difwa.png";
+import IMG2 from "../../assets/projectimg/ravistudio.png";
+import IMG3 from "../../assets/projectimg/ajaydhawan.png";
+import IMG4 from "../../assets/projectimg/nextzeni.png";
+import IMG5 from "../../assets/projectimg/nextzeni.png";
+import IMG6 from "../../assets/projectimg/indecorlko.png";
 import React from "react";
 
 //Portfolio function
@@ -13,7 +13,7 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "Educational Website with React.js",
+      title: "Difwa",
       img: IMG1,
       description:
         "An educational website is a huge interactive platform to present various information for people.",
@@ -33,42 +33,42 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: "Hospital reservation form",
+      title: "RaviStudio",
       img: IMG2,
       description: "A booking website for doctor's appointments at the hospital. The website is mainly functionally developed with JavaScript",
       technologies: "HTML | CSS | JavaScript",
-      link: "https://fs-code-task-two.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/FS-Code-Task",
+      link: "https://ravistudio.vercel.app/",
+      github: "https://github.com/amarcodeservir/ravistudio",
     },
     {
       id: 4,
-      title: "Startup Landing Page",
+      title: "AjayDhawan",
       img: IMG3,
       description:
         "A dedicated, standalone web page built for specific campaigns and target audiences.",
       technologies: "Html | CSS | JavaScript | Next Js",
-      link: "https://alpha-agency-project.vercel.app/",
+      link: "https://www.ajaydhawan.com/",
       github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
     },
     {
       id: 5,
-      title: "Jokes Project with Typescript",
+      title: "NextZeni",
       img: IMG5,
       description:
         "For when you need a fast funny joke, here are some short jokes to get anyone giggling.",
       technologies: "Html | Styled-components | Typescript",
-      link: "https://jokes-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Joke-App",
+      link: "https://www.nextzeni.com/",
+      github: "https://github.com/difmo/nextzeni",
     },
     {
       id: 6,
-      title: "Fs Poster Website",
+      title: "IndecorLko",
       img: IMG6,
       description:
         "Real-world group project which is still in progress and will provide educational platform for future young developers",
       technologies: "Html | Scss | Javascript",
-      link: "https://fs-poster-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Fs-Poster-Project",
+      link: "https://www.indecorlko.com/",
+      github: "https://github.com/difmo/indecorlko",
     },
   ];
 

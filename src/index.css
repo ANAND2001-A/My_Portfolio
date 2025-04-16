@@ -11,10 +11,13 @@
 }
 
 :root {
-  --color-bg: #1f1f38;
-  --color-bg-variant: #2c2c6c;
-  --color-primary: #4db5ff;
-  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-primary: #7f5af0; /* Soft violet-purple */
+  --color-primary-variant: rgba(127, 90, 240, 0.3); /* For hover/glow/shadow */
+  
+  --color-bg: #0f0e17; /* Deep charcoal with a cool tint */
+  --color-bg-variant: #1a1b23; /* Slightly lighter variant for cards/sections */
+
+  
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
 

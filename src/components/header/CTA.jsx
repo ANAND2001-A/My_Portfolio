@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/Rasif-Taghizade-CV.pdf';
+import CV from '../../assets/resume.pdf';
 
 const CTA = () => {
   return (
@@ -15,3 +15,4 @@ const CTA = () => {
 };
 
 export default CTA;
+///////////////////////////////https://github.com/ryanbalieiro/react-portfolio-template////////////template link///https://github.com/mittal-parth/personal-portfolio////////////
