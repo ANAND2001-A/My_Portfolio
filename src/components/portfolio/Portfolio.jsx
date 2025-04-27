@@ -13,23 +13,23 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "Difwa",
+      title: "Difwa Water Delivery App",
       img: IMG1,
       description:
         "An educational website is a huge interactive platform to present various information for people.",
       technologies: "Html | CSS | Javascript | React Js",
       link: "https://educational-website-reactjs.netlify.app/",
-      github: "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs",
+      github: "https://github.com/ANAND2001-A",
     },
     {
       id: 2,
-      title: "fh-huquq.az",
+      title: "TalentMeet",
       img: IMG4,
       description:
-        "A personal website assembled for a lawyer. Firebase is the basis of the website assembled as a full stack",
-      technologies: "HTML | CSS | JavaScript | Express Js | Firebase",
-      link: "https://fh-huquq-com.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/fh-huquq.com",
+        "A personal website for the online Interview Online Prectice. Firebase is the basis of the website assembled as a full stack",
+      technologies: "ReactJs | TailwindCSS | JavaScript | Real Time DataBase | Firebase",
+      link: "https://mockinteviewanand.vercel.app/",
+      github: "https://github.com/ANAND2001-A",
     },
     {
       id: 3,
@@ -38,7 +38,7 @@ const Portfolio = () => {
       description: "A booking website for doctor's appointments at the hospital. The website is mainly functionally developed with JavaScript",
       technologies: "HTML | CSS | JavaScript",
       link: "https://ravistudio.vercel.app/",
-      github: "https://github.com/amarcodeservir/ravistudio",
+      github: "https://github.com/ANAND2001-A",
     },
     {
       id: 4,
@@ -48,7 +48,7 @@ const Portfolio = () => {
         "A dedicated, standalone web page built for specific campaigns and target audiences.",
       technologies: "Html | CSS | JavaScript | Next Js",
       link: "https://www.ajaydhawan.com/",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
+      github: "https://github.com/ANAND2001-A",
     },
     {
       id: 5,
